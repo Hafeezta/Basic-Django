@@ -1,0 +1,2 @@
+# Basic-Django
+Django Basic
